@@ -10,5 +10,5 @@ const oddOrEven = (n) => {
   };
 
 console.log(oddOrEven(43));
-console.log(oddOrEven(373));
-console.log(oddOrEven(4433));
+console.log(oddOrEven(561));
+console.log(oddOrEven(7832));
